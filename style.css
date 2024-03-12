@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+}
+
+.title {
+  text-align: left;
+  font-family: Arial, sans-serif;
+  margin-bottom: 40px;
+}
+
+.image {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 40px;
+}
+
+.text {
+  text-align: left;
+  font-size: 16px;
+  line-height: 1.5;
+  width: 100%;
+  max-width: 400px;
+}
+
